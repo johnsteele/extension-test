@@ -166,6 +166,11 @@ export class RhamtUtil {
         }
         params.push('--target');
         params.push(target.join(' '));
+
+        params.push('--userRulesDirectory');
+        params.push('/Users/johnsteele/Desktop/vscode-demo/tests/rules');
+        params.push('/Users/johnsteele/Desktop/vscode-demo/tests/rules2');
+
         return Promise.resolve(params);
     }
 
