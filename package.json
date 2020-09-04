@@ -184,7 +184,7 @@
         "tslint-eslint-rules": "^5.4.0",
         "typescript": "^3.3.3333",
         "vscode": "^1.1.33",
-        "showdown": "^1.9.0",
+        "showdown": "^1.9.1",
         "request-progress": "^3.0.0",
         "node-stream-zip": "^1.8.0"
     },
@@ -200,7 +200,7 @@
         "request": "^2.88.0",
         "request-progress": "^3.0.0",
         "serve-static": "^1.14.1",
-        "showdown": "^1.9.0",
+        "showdown": "^1.9.1",
         "tmp": "^0.1.0",
         "vscode-nls": "^2.0.2"
     }
